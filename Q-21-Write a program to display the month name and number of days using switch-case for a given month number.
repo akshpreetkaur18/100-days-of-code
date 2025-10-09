@@ -39,3 +39,13 @@ int main()
     case 11:
     printf("November, 30 days");
     break;
+ case 12:
+    printf("December, 31 days");
+    break;
+    default:
+    printf("Invalid Input!");
+  }
+  return 0;
+}
+
+
